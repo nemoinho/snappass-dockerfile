@@ -1,4 +1,5 @@
 # Micro Snappass
+[![](https://images.microbadger.com/badges/image/nemoinho/snappass.svg)](https://microbadger.com/images/nemoinho/snappass "Get your own image badge on microbadger.com")
 This is a micro snappass-container for minimal Docker-environments.
 
 ## Environment-Variables
