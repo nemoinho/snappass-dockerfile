@@ -11,4 +11,4 @@ All environment-variables are based on the snappass implementation:
 - SNAPPASS_REDIS_DB: The actual redis instance to use for snappass
 
 ## Usage
-There is a quick and easy [docker-compose](docker-compose.yml) file as an example how to setup the container with redis.
+There is a quick and easy [docker-compose](https://github.com/nemoinho/snappass-dockerfile/blob/master/docker-compose.yml) file as an example how to setup the container with redis.
